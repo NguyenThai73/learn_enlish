@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1088008147900",
+    "firebase_url": "https://learn-english-app-c7edb-default-rtdb.firebaseio.com",
+    "project_id": "learn-english-app-c7edb",
+    "storage_bucket": "learn-english-app-c7edb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088008147900:android:9e74a7d5da8be3bd7b51b9",
+        "android_client_info": {
+          "package_name": "com.example.learnEnglish"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH_S5_PC2Wnwg9S2V6ME7O8O8kmn61INU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088008147900:android:cdf5b6162d3398947b51b9",
+        "android_client_info": {
+          "package_name": "com.example.learn_english"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH_S5_PC2Wnwg9S2V6ME7O8O8kmn61INU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
